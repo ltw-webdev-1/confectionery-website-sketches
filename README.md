@@ -8,7 +8,7 @@ deliverables: 'Marked-up wireframes'
 
 ## Overview
 
-Quickly sketch your ideas for the layout of your confectionery website for all screen sizes. Similar to what we did in the [Sketching a website](https://learn-the-web.algonquindesign.ca/courses/web-dev-1/sketching-a-website/),  [C’mon do the sketchin’](https://learn-the-web.algonquindesign.ca/courses/web-dev-1/cmon-do-the-sketchin/) & [Paper plans](https://learn-the-web.algonquindesign.ca/courses/web-dev-1/paper-plans/) activities.
+Quickly sketch your ideas for the layout of your confectionery website for all screen sizes. Similar to what we did in the [Sketching a website](https://learntheweb.courses/courses/web-dev-1/sketching-a-website/),  [C’mon do the sketchin’](https://learntheweb.courses/courses/web-dev-1/cmon-do-the-sketchin/) & [Paper plans](https://learntheweb.courses/courses/web-dev-1/paper-plans/) activities.
 
 **Do sketches for all screen sizes: `small`, `medium` & `large`**
 
@@ -22,7 +22,7 @@ Quickly sketch your ideas for the layout of your confectionery website for all s
 
 ### 2. Match patterns
 
-Similar to our [Finding patterns](https://learn-the-web.algonquindesign.ca/courses/web-dev-1/finding-patterns/) activity, figure out which assignments match as close as possible to what you want to code.
+Similar to our [Finding patterns](https://learntheweb.courses/courses/web-dev-1/finding-patterns/) activity, figure out which assignments match as close as possible to what you want to code.
 
 - Write the matching assignment on your sketches as a reference for yourself when you start coding.
 
